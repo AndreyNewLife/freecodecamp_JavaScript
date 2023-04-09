@@ -35,3 +35,8 @@ let myFirstName = "Andrey";
 let myLastName = "Antipov";
 __________________________________________
 
+var a=5;
+var b=10;
+var c="I am a";
+______________________________________________
+
