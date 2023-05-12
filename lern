@@ -155,3 +155,7 @@ ________________________________________________________
 
 const myStr = "This is the start. " + "This is the end.";
 __________________________________________________________
+let myStr;
+myStr="This is the first sentence. ";
+myStr += "This is the second sentence.";
+____________________________________________________________
