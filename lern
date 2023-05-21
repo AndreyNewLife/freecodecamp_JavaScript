@@ -160,3 +160,7 @@ ____________________________________________________________
 const myName = "Andrey";
 const myStr = "My name is"+myName+"and I am well!";
 ____________________________________________________________
+const someAdjective = "awersome !";
+let myStr = "Learning to code is ";
+myStr+=someAdjective;
+____________________________________________________________
