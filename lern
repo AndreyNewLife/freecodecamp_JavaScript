@@ -157,3 +157,6 @@ let myStr;
 myStr="This is the first sentence. ";
 myStr += "This is the second sentence.";
 ____________________________________________________________
+const myName = "Andrey";
+const myStr = "My name is"+myName+"and I am well!";
+____________________________________________________________
